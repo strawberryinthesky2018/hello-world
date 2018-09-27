@@ -1,2 +1,2 @@
 # hello-world
-My first projects learning how to create AI
+I am interested in robotics and machine learning, as well as coding backends for websites.  I plan to start with community college to minimize debt, learn C and C++, and then move on to a four year university.  I like philosophy, and reading about the possible applications of modal logic is part of what got me interested in learning to code - That and a healthy dose of science fiction.  Any advice is welcome.  
